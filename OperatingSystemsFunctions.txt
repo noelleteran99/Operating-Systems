@@ -6,3 +6,8 @@ installed on your laptop or desktop and stream games to play.
 Another operation system is MacOS and it also has new functions.  Improvements
 have been made to the OS and Safari security.  It has a new continuity camera and
 dark mode.  Also added was desktop stacking and dynamic desktops. 
+
+iOS is a mobile operating system that also has some improvements made to its 
+functions.  Some of those improvements are Siri now has enhanced intelligence and 
+capable of suggesting reminders.  New or improved functions also include a quick toolbar, 
+smart lists and messanger integration. 
