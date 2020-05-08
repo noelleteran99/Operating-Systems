@@ -2,3 +2,7 @@ Windows 10 has improved functions from the last version of Windows 8.
 Improvements were made to have the Start Menu return with easy access.
 Multitasking has been made easier for users.  And the Xbox app can now be 
 installed on your laptop or desktop and stream games to play. 
+
+Another operation system is MacOS and it also has new functions.  Improvements
+have been made to the OS and Safari security.  It has a new continuity camera and
+dark mode.  Also added was desktop stacking and dynamic desktops. 
